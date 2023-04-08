@@ -12,7 +12,6 @@ local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Stevo
 ## Ill work on this when I have time
 
 ```lua
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/Splix"))()
 
 local window = library:new({textsize = 13.5,font = Enum.Font.RobotoMono,name = "YES",color = Color3.fromRGB(225,58,81)})
 
